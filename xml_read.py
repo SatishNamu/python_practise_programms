@@ -42,4 +42,6 @@ for eachline in BooksDataline:
         
     if flag == 1:
         DescriptionLines += stripped_line
+pprint.pprint(BookData)
+
 
